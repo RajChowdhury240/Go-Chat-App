@@ -1,9 +1,9 @@
 # Go-Chat-App
+
 A simple Chat Application Written in Go
 
 Just run the following
 
-cd ./src
 go get github.com/gorilla/websocket
 go run main.go
 
