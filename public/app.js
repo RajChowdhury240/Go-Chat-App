@@ -55,7 +55,7 @@ new Vue({
         },
 
         gravatarURL: function(email) {
-            return 'http://www.gravatar.com/avatar/' + CryptoJS.MD5(email);
+            return 'https://image.flaticon.com/icons/png/512/2201/2201709.png' + CryptoJS.MD5(email);
         }
     }
 });
