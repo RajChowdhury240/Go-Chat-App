@@ -4,7 +4,7 @@
 ![alt text](https://thumbs.dreamstime.com/b/mobile-messenger-app-texting-messages-mobile-messenger-app-texting-messages-hand-holding-smartphone-new-message-125311254.jpg)
 
 
-Run The following :
+Run The following in The Terminal in Working Directory :
 
   1. go get github.com/gorilla/websocket
   2. go run main.go
